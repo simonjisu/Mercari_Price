@@ -52,4 +52,5 @@ fabric.properties`
 __pycache__
 .ipynb_checkpoints/
 data/*
+fastText/*
 
